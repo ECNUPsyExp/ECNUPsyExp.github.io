@@ -66,9 +66,9 @@ psychoJS.start({
   resources: [
     // resources:
     {'name': 'conditions.xlsx', 'path': 'conditions.xlsx'},
-    {'name': 'resources\tri.png', 'path': 'resources/tri.png'},
-    {'name': 'resources\six.png', 'path': 'resources/six.png'},
-    {'name': 'resources\blank.png', 'path': 'resources/blank.png'},
+    {'name': 'resources/tri.png', 'path': 'resources/tri.png'},
+    {'name': 'resources/six.png', 'path': 'resources/six.png'},
+    {'name': 'resources/blank.png', 'path': 'resources/blank.png'},
     {'name': 'default.png', 'path': 'https://pavlovia.org/assets/default/default.png'},
     {'name': 'resources/circle.png', 'path': 'resources/circle.png'},
   ]
