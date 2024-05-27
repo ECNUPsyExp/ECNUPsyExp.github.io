@@ -125,7 +125,7 @@ async function experimentInit() {
   welcome_text = new visual.TextStim({
     win: psychoJS.window,
     name: 'welcome_text',
-    text: '欢迎参加实验！本实验（实验二）中您的任务如下：\n\n当您看到【+】符号时，请集中注意力\n随后屏幕中央会呈现一个随机的图形\n然后是一页空白\n\n紧接着，\n屏幕中央会再次呈现一个随机的图形或保持空白\n\n假如您看到了随机的图形\n请立即按下【空格】键\n假如您没有看到图形\n请不要按下任何键\n\n请确保您已理解全部以上内容\n按【空格】键开始正式实验',
+    text: '欢迎参加实验！本实验（实验二）中您的任务如下：\n\n当您看到【+】符号时，请集中注意力\n随后屏幕中央会呈现一个随机的图形\n然后是一页【空白】\n\n紧接着，\n屏幕中央会再次呈现一个随机的图形或保持空白\n\n假如您看到了随机的图形\n请立即按下【空格】键\n假如您没有看到图形\n请不要按下任何键\n\n请确保您已理解全部以上内容\n按【空格】键开始正式实验',
     font: 'Open Sans',
     units: undefined, 
     pos: [0, 0], height: 0.04,  wrapWidth: undefined, ori: 0.0,
