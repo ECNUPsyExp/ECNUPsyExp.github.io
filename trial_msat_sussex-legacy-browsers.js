@@ -65,7 +65,7 @@ psychoJS.start({
   expName: expName,
   expInfo: expInfo,
   resources: [
-      {'name': 'MSAT_conditions.xls', 'path': 'resources/MSAT_conditions.xls'}
+      {'name': 'MSAT_conditions2.xls', 'path': 'resources/MSAT_conditions2.xls'}
   ]
 });
 
@@ -1319,7 +1319,7 @@ function trialsLoopBegin(trialsLoopScheduler) {
     psychoJS: psychoJS,
     nReps: 1, method: TrialHandler.Method.RANDOM,
     extraInfo: expInfo, originPath: undefined,
-    trialList: 'MSAT_conditions.xls',
+    trialList: 'MSAT_conditions2.xls',
     seed: undefined, name: 'trials'
   });
   
