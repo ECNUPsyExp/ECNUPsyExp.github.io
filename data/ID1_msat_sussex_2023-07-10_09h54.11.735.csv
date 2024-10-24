@@ -1,0 +1,11 @@
+slider_relation.response,slider_relation.rt,slider_blame_SA.response,slider_blame_SA.rt,slider_blame_OA.response,slider_blame_OA.rt,verb_stimulus,agency,mouse_feeling.clicked_name,mouse_feeling.time,mouse_action.clicked_name,mouse_action.time,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,stimno_ADeSS,stimno_Zahn2007,participant,your name,your best friend,session,date,expName,psychopyVersion,OS,frameRate
+6,5.2715,6,15.9183,2,17.2526,is romantic towards,other,"[""shame""]",22.844,"[""hiding""]",55.1107,0,0,0,52,1,53,275,ID1,c,x,x,2023-07-10_09h54.11.735,msat_sussex,2020.2.10,Win32,60
+,,7,3.0026,7,4.8995,is jealous towards,self,"[""contempt_self""]",3.5487,"[""apologising""]",4.4318,0,1,1,25,1,26,165,ID1,c,x,x,2023-07-10_09h54.11.735,msat_sussex,2020.2.10,Win32,60
+,,7,1.5647,7,2.3565,is competitive with,other,"[""guilt""]",14.5647,"[""hiding""]",2.6821,0,2,2,48,1,49,217,ID1,c,x,x,2023-07-10_09h54.11.735,msat_sussex,2020.2.10,Win32,60
+,,7,2.155,7,3.1072,is careless towards,self,"[""contempt_friend""]",2.0319,"[""apologising""]",1.7161,0,3,3,7,1,8,127,ID1,c,x,x,2023-07-10_09h54.11.735,msat_sussex,2020.2.10,Win32,60
+,,5,2.8297,4,0.7896,is prejudiced towards,other,"[""anger_self""]",4.6655,"[""apologising""]",1.4485,0,4,4,28,1,29,171,ID1,c,x,x,2023-07-10_09h54.11.735,msat_sussex,2020.2.10,Win32,60
+,,3,1.1984,3,1.8781,is dishonest with,other,"[""anger_self""]",2.2987,"[""apologising""]",2.3489,0,5,5,14,1,15,137,ID1,c,x,x,2023-07-10_09h54.11.735,msat_sussex,2020.2.10,Win32,60
+,,5,1.6757,5,2.7164,is rebellious towards,other,"[""contempt_self""]",6.7321,"[""verbal_friend""]",3.4487,0,6,6,32,1,33,174,ID1,c,x,x,2023-07-10_09h54.11.735,msat_sussex,2020.2.10,Win32,60
+,,6,3.2031,6,1.6831,is firm with,self,"[""guilt""]",26.3153,"[""attack_self""]",2.3152,0,7,7,51,1,52,237,ID1,c,x,x,2023-07-10_09h54.11.735,msat_sussex,2020.2.10,Win32,60
+,,7,1.6238,7,2.8237,is greedy towards,other,"[""anger_friend""]",2.1155,"[""verbal_friend""]",1.999,0,8,8,16,1,17,147,ID1,c,x,x,2023-07-10_09h54.11.735,msat_sussex,2020.2.10,Win32,60
+,,4,1.9665,3,1.0226,is quarrelsome with,self,"[""anger_friend""]",2.582,"[""verbal_friend""]",2.6488,0,9,9,31,1,32,173,ID1,c,x,x,2023-07-10_09h54.11.735,msat_sussex,2020.2.10,Win32,60
