@@ -929,7 +929,7 @@ trialCount = 0;
   thanksText = new visual.TextStim({
     win: psychoJS.window,
     name: 'thanksText',
-    text: '任务已经完成 - 感谢您的参与！\n\n 〇在看到绿色的提示前，请不要关闭此页面\n点击 https://www.baidu.com 跳转下一个实验',
+    text: '任务已经完成 - 感谢您的参与！\n\n 〇在看到绿色的提示前，请不要关闭此页面\n 即将跳转下一个实验',
     font: 'Arial',
     units: 'norm', 
     pos: [0, 0], height: 0.1,  wrapWidth: undefined, ori: 0,
@@ -2618,6 +2618,6 @@ function quitPsychoJS(message, isCompleted) {
   psychoJS.window.close();
   psychoJS.quit({message: message, isCompleted: isCompleted});
   //TrialUpdate_2024/01/29 尝试实现自动跳转页面
-  window.location.replace("https://www.baidu.com");
+  window.location.replace("https://ecnupsyexp.github.io/index2.html");
   return Scheduler.Event.QUIT;
 }
